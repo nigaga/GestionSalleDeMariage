@@ -1,0 +1,42 @@
+# Visual Studio
+.vs/
+# Build results
+[Dd]ebug/
+[Rr]elease/
+bin/
+obj/
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+# Others
+*.log
+*.tlog
+*.cache
+*.pdb
+*.dbmdl
+*.dbmdl
+*.jfm
+# Entity Framework
+Migrations/
+# Rider
+.idea/
+# OS generated files
+.DS_Store
+Thumbs.db
+# Publish
+publish/
+# npm
+node_modules/
+# Azure
+.scm/
+# LocalDB
+*.mdf
+*.ldf
+# JetBrains Rider
+.idea/
+# VS Code
+.vscode/ 
