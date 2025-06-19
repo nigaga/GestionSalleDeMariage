@@ -29,13 +29,7 @@ Application web ASP.NET Core MVC pour la gestion d'une salle de mariage.
 - `Views/` : Vues Razor (CRUD, Login)
 - `appsettings.json` : Configuration (connexion SQL)
 
-## Personnalisation
-- Pour changer le mot de passe admin, modifier `AccountController.cs`.
-- Pour utiliser un autre SQL Server, modifier la chaîne de connexion dans `appsettings.json`.
 
-## Sécurité
-- Ce projet est un exemple pédagogique. Pour un usage réel, il faut :
-  - Gérer les mots de passe de façon sécurisée
-  - Ajouter une gestion d'utilisateurs complète
-  - Protéger contre les attaques courantes (XSS, CSRF, etc.)
+
+
 
